@@ -54,13 +54,6 @@ I think a problem still exists that I am not on a level surface where I am print
 
 
 
-# TODO:
-
-√ Remove the buildtak surface from the bed with acetone / goof off
-Level out the surface better.
-Detangle the wires better.
-
-
 # Questions:
 How do you handle initial extrusion?
 
