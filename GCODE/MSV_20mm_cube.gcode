@@ -3,7 +3,7 @@
 ;Filament used: 1.29464m
 ;Layer height: 0.2
 ;Generated with Cura_SteamEngine 2.6.0
-M190 S55
+M190 S70
 M104 S195
 M109 S195
 G28 ;Home
@@ -376,7 +376,7 @@ G0 X90.67 Y90.67
 G0 X90.6 Y90.6
 ;TIME_ELAPSED:71.511934
 ;LAYER:1
-M140 S55
+M140 S70
 M106 S255
 G0 F3600 X90.6 Y90.6 Z0.5
 ;TYPE:WALL-INNER
@@ -7862,7 +7862,7 @@ M104 S0
 ;SETTING_3 on = custom\\n\\n[metadata]\\nquality_type = normal\\ntype = quality_
 ;SETTING_3 changes\\n\\n[values]\\nadhesion_type = skirt\\nbrim_width = 4.0\\nco
 ;SETTING_3 ol_min_layer_time = 10\\nlayer_height = 0.2\\nmaterial_bed_temperatur
-;SETTING_3 e = 55\\nmaterial_print_temperature = 195\\nretraction_amount = 2\\nr
+;SETTING_3 e = 70\\nmaterial_print_temperature = 195\\nretraction_amount = 2\\nr
 ;SETTING_3 etraction_speed = 40\\nspeed_infill = 50\\nspeed_layer_0 = 20\\nspeed
 ;SETTING_3 _print = 40\\nspeed_travel = 80\\nsupport_type = buildplate\\n\\n", "
 ;SETTING_3 extruder_quality": ["[general]\\nversion = 2\\nname = empty\\ndefinit
