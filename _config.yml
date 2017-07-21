@@ -16,8 +16,7 @@
 title: Print, Idiot!
 email: james@printidiot.pw
 description: > # this means to ignore newlines until "baseurl:"
-  Here details my experience with my first 3d printer, the 
-  first days of troubleshooting with the [Monoprice Maker Select v2](http://amzn.to/2uc9IWh).
+  Hi, I'm James. I am _really_ good at being bad at 3D printing with my [Monoprice Maker Select v2](http://amzn.to/2uc9IWh). Learn something from my mistakes!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: hjhart
@@ -30,7 +29,7 @@ plugins_dir:
   - jekyll-feed
 
 disqus:
-  shortname: printidiot
+  shortname: hjhart
         # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
