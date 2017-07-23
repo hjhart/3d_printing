@@ -5,6 +5,8 @@ date: 2017-07-19 18:03:05 -0700
 updated_date: 2017-07-23 15:37:33 -0700
 ---
 
+{% include links.html %}
+
 Here is a guide of things I check each time I print. I still suck at this, and pretty much every one of my prints have failed in some way, but if you're looking to get started with your new printer &emdash; here is a good place to start.
 
 This checklist should probably be printed right in front of my printer.
@@ -29,8 +31,4 @@ On second thought, perhaps it should be on a monitor right in front of my printe
 * Is the printing bed level? Yes? Good. No? [Level it.][leveling_video]
 * Click Print in OctoPrint
 * Wait and watch your print gloriously fail!
-
-{% for link in site.data.links %}
-[{{ link.name }}]: {{ link.link }}
-{% endfor %}
 

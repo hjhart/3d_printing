@@ -31,6 +31,8 @@ title: "TITLE"
 date: DATE
 ---
 
+{% include links.html %}
+
 HTML
   post.gsub!('TITLE', title).gsub!('DATE', Time.new.to_s).gsub!('TYPE', type)
   File.open(path, 'w') do |file|
