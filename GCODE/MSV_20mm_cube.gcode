@@ -7859,31 +7859,31 @@ M84
 M104 S0
 ;End of Gcode
 ;SETTING_3 {"global_quality": "[general]\\nversion = 2\\nname = empty\\ndefiniti
-;SETTING_3 on = custom\\n\\n[metadata]\\nquality_type = normal\\ntype = quality_
-;SETTING_3 changes\\n\\n[values]\\nadhesion_type = skirt\\nbrim_width = 4.0\\nco
-;SETTING_3 ol_min_layer_time = 10\\nlayer_height = 0.2\\nmaterial_bed_temperatur
-;SETTING_3 e = 60\\nmaterial_print_temperature = 195\\nretraction_amount = 2\\nr
-;SETTING_3 etraction_speed = 40\\nspeed_infill = 50\\nspeed_layer_0 = 20\\nspeed
-;SETTING_3 _print = 40\\nspeed_travel = 80\\nsupport_type = buildplate\\n\\n", "
-;SETTING_3 extruder_quality": ["[general]\\nversion = 2\\nname = empty\\ndefinit
-;SETTING_3 ion = custom\\n\\n[metadata]\\nextruder = custom_extruder_1\\nquality
-;SETTING_3 _type = normal\\ntype = quality_changes\\n\\n[values]\\n\\n", "[gener
-;SETTING_3 al]\\nversion = 2\\nname = empty\\ndefinition = custom\\n\\n[metadata
-;SETTING_3 ]\\nextruder = custom_extruder_2\\nquality_type = normal\\ntype = qua
-;SETTING_3 lity_changes\\n\\n[values]\\n\\n", "[general]\\nversion = 2\\nname = 
-;SETTING_3 empty\\ndefinition = custom\\n\\n[metadata]\\nextruder = custom_extru
-;SETTING_3 der_3\\nquality_type = normal\\ntype = quality_changes\\n\\n[values]\
-;SETTING_3 \n\\n", "[general]\\nversion = 2\\nname = empty\\ndefinition = custom
-;SETTING_3 \\n\\n[metadata]\\nextruder = custom_extruder_4\\nquality_type = norm
-;SETTING_3 al\\ntype = quality_changes\\n\\n[values]\\n\\n", "[general]\\nversio
-;SETTING_3 n = 2\\nname = empty\\ndefinition = custom\\n\\n[metadata]\\nextruder
-;SETTING_3  = custom_extruder_5\\nquality_type = normal\\ntype = quality_changes
-;SETTING_3 \\n\\n[values]\\n\\n", "[general]\\nversion = 2\\nname = empty\\ndefi
-;SETTING_3 nition = custom\\n\\n[metadata]\\nextruder = custom_extruder_6\\nqual
-;SETTING_3 ity_type = normal\\ntype = quality_changes\\n\\n[values]\\n\\n", "[ge
-;SETTING_3 neral]\\nversion = 2\\nname = empty\\ndefinition = custom\\n\\n[metad
-;SETTING_3 ata]\\nextruder = custom_extruder_7\\nquality_type = normal\\ntype = 
-;SETTING_3 quality_changes\\n\\n[values]\\n\\n", "[general]\\nversion = 2\\nname
-;SETTING_3  = empty\\ndefinition = custom\\n\\n[metadata]\\nextruder = custom_ex
-;SETTING_3 truder_8\\nquality_type = normal\\ntype = quality_changes\\n\\n[value
-;SETTING_3 s]\\n\\n"]}
+;SETTING_3 on = custom\\n\\n[metadata]\\ntype = quality_changes\\nquality_type =
+;SETTING_3  normal\\n\\n[values]\\nadhesion_type = skirt\\nbrim_width = 4.0\\nco
+;SETTING_3 ol_min_layer_time = 10\\nlayer_height = 0.2\\nlayer_height_0 = 0.3\\n
+;SETTING_3 material_bed_temperature = 60\\nmaterial_print_temperature = 195\\nre
+;SETTING_3 traction_amount = 2\\nretraction_speed = 40\\nspeed_infill = 50\\nspe
+;SETTING_3 ed_layer_0 = 20\\nspeed_print = 40\\nspeed_travel = 80\\nsupport_type
+;SETTING_3  = buildplate\\n\\n", "extruder_quality": ["[general]\\nversion = 2\\
+;SETTING_3 nname = empty\\ndefinition = custom\\n\\n[metadata]\\ntype = quality_
+;SETTING_3 changes\\nextruder = custom_extruder_1\\nquality_type = normal\\n\\n[
+;SETTING_3 values]\\n\\n", "[general]\\nversion = 2\\nname = empty\\ndefinition 
+;SETTING_3 = custom\\n\\n[metadata]\\ntype = quality_changes\\nextruder = custom
+;SETTING_3 _extruder_2\\nquality_type = normal\\n\\n[values]\\n\\n", "[general]\
+;SETTING_3 \nversion = 2\\nname = empty\\ndefinition = custom\\n\\n[metadata]\\n
+;SETTING_3 type = quality_changes\\nextruder = custom_extruder_3\\nquality_type 
+;SETTING_3 = normal\\n\\n[values]\\n\\n", "[general]\\nversion = 2\\nname = empt
+;SETTING_3 y\\ndefinition = custom\\n\\n[metadata]\\ntype = quality_changes\\nex
+;SETTING_3 truder = custom_extruder_4\\nquality_type = normal\\n\\n[values]\\n\\
+;SETTING_3 n", "[general]\\nversion = 2\\nname = empty\\ndefinition = custom\\n\
+;SETTING_3 \n[metadata]\\ntype = quality_changes\\nextruder = custom_extruder_5\
+;SETTING_3 \nquality_type = normal\\n\\n[values]\\n\\n", "[general]\\nversion = 
+;SETTING_3 2\\nname = empty\\ndefinition = custom\\n\\n[metadata]\\ntype = quali
+;SETTING_3 ty_changes\\nextruder = custom_extruder_6\\nquality_type = normal\\n\
+;SETTING_3 \n[values]\\n\\n", "[general]\\nversion = 2\\nname = empty\\ndefiniti
+;SETTING_3 on = custom\\n\\n[metadata]\\ntype = quality_changes\\nextruder = cus
+;SETTING_3 tom_extruder_7\\nquality_type = normal\\n\\n[values]\\n\\n", "[genera
+;SETTING_3 l]\\nversion = 2\\nname = empty\\ndefinition = custom\\n\\n[metadata]
+;SETTING_3 \\ntype = quality_changes\\nextruder = custom_extruder_8\\nquality_ty
+;SETTING_3 pe = normal\\n\\n[values]\\n\\n"]}
