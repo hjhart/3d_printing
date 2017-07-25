@@ -10,7 +10,7 @@ Things for me to do to improve quality of prints:
 * Make the printer surface physically level (depends on lack table being delivered)
 * Detangles the wires
 * [Mosfet modification][mosfet_mod]
-* Z-Axis Modification
+* [Z-Brace Modification](http://3dprinterwiki.info/wiki/wanhao-duplicator-i3/duplicator-i3-basic-mods/z-brace/)
 * Print out a toy for [Henry's bathtime][boats_boats_boats]
 
 [boats_boats_boats]: https://github.com/hjhart/3d_printing/tree/master/Models/Hamel_Monohull_Paddle_Boat
