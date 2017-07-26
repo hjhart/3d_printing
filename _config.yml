@@ -29,6 +29,7 @@ theme: minima
 plugins_dir:
   - jekyll-feed
 
+google_analytics: UA-103233648-1
 disqus:
   shortname: print-idiot
         # Exclude from processing.
