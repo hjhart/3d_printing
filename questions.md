@@ -1,8 +1,3 @@
----
-layout: page
-permalink: /questions/
----
-
 # Questions:
 
 How do you handle initial extrusion?
