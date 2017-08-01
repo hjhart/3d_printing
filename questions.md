@@ -1,5 +1,3 @@
-# Questions:
-
 How do you handle initial extrusion?
 
 How do I get a level bed?
