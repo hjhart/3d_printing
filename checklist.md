@@ -8,13 +8,9 @@ updated_date: 2017-08-01 10:14:13 -0700
 
 {% include links.html %}
 
-Here is a guide of things I check each time I print. I still suck at this, and pretty much every one of my prints have failed in some way, but if you're looking to get started with your new printer &emdash; here is a good place to start.
+Last updated: **{{page.updated_date | date: "%x at %H:%M %p"}}.**
 
-This checklist should probably be printed right in front of my printer.
-
-On second thought, perhaps it should be on a monitor right in front of my printer, since every time I print it I'll think of something to add to it.
-
-**Last updated:** {{page.updated_date | date: "%x at %r"}}.
+Here is a guide of things I check each time I print. I still suck at this, and pretty much every one of my prints have failed in some way, but if you're looking to get started with your new printer &mdash; here is a good place to start.
 
 1. Export your model from Cura
 1. Load file into [OctoPrint][octoprint]
