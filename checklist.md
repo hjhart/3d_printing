@@ -18,9 +18,10 @@ Here is a guide of things I check each time I print. I still suck at this, and p
 1. Set nozzle temperature 195 (for PLA, or other material temp), and while waiting for it to get to temp...
 1. Take off the [glass plate][glass] from the printing bed.
 1. Scrape off any gunk that remained from any failed prints.
-1. Wipe down with some [isopropyl alcohol][isopropyl] on a cotton swab
-1. After it is dry, spray the glass with some [hairspray][hairspray].
-1. Once the nozzle is up to temp, retract the extruder 5-10mm.
+1. Spray your glass plate with some [isopropyl alcohol][isopropyl] in a spray bottle.
+1. Wipe it off with a microfiber rag.
+1. Spray the glass with some [hairspray][hairspray].
+1. Once the nozzle is up to temp, retract the extruder 10mm.
 1. Clean the nozzle with a thick rag, avoiding burns from the hot nozzle.
 1. Put the glass plate back on the heating bed.
 1. Heat up the bed to 50 (for PLA, or other material temp)
