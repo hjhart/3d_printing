@@ -14,7 +14,7 @@ permalink: /queue/
 #### Printed:
 
 * [Squishy Turtle](https://www.thingiverse.com/thing:2238443)
-* Duchamp chess pieces, [knight][chess]
+* [Duchamp chess pieces][chess]
 * [Low Poly T-Rex](https://www.thingiverse.com/thing:913069)
 * The paddle of the [Hamel Monohull Paddle Boat](https://www.thingiverse.com/thing:843646)
 
