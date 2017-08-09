@@ -7,18 +7,14 @@ permalink: /queue/
 
 #### To Print:
 
-* [Squishy Turtle](https://www.thingiverse.com/thing:2238443)
-* [Low Poly Squirrel](https://www.thingiverse.com/thing:910750)
-* Duchamp chess piece, [rook][chess]
-* Duchamp chess piece, [bishop][chess]
-* Duchamp chess piece, [pawn][chess]
+* [Monster Truck](https://www.thingiverse.com/thing:910750)
 * [Smartphone photo studio](https://www.thingiverse.com/thing:1085472)
+* [Low Poly Squirrel](https://www.thingiverse.com/thing:910750)
 
 #### Printed:
 
-* Duchamp chess piece, [knight][chess]
-* Duchamp chess piece, [king][chess]
-* Duchamp chess piece, [queen][chess]
+* [Squishy Turtle](https://www.thingiverse.com/thing:2238443)
+* Duchamp chess pieces, [knight][chess]
 * [Low Poly T-Rex](https://www.thingiverse.com/thing:913069)
 * The paddle of the [Hamel Monohull Paddle Boat](https://www.thingiverse.com/thing:843646)
 
