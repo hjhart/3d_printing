@@ -8,7 +8,7 @@ date: 2017-07-31 23:26:10 -0700
 
 I've experienced my [borosilicate glass plate][glass] teetering quite a bit recently. 
 
-The first time, the stock heating bed was convex, so even when I put a glass plate on top of it it teetered.
+The first time, the stock heating bed was convex, so even when I put a glass plate on top, it teetered.
 
 If you know your heating bed is _not_ convex, then here is what I'd try:
 
