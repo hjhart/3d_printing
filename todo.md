@@ -4,14 +4,15 @@ title: To Do
 permalink: /todo/
 ---
 
+{% include links.html %}
+
 Things for me to do to improve quality of prints:
 
-* ~Remove the buildtak surface from the print bed with goof off~
-* Make the printer surface physically level (depends on lack table being delivered)
-* Detangles the wires
 * [Mosfet modification][mosfet_mod]
-* [Z-Brace Modification](http://3dprinterwiki.info/wiki/wanhao-duplicator-i3/duplicator-i3-basic-mods/z-brace/)
-* Print out a toy for [Henry's bathtime][boats_boats_boats]
+* Remove the buildtak surface from the print bed with goof off
+* ~~Make the printer surface physically level~~
+* ~~Detangles the wire in the back~~
+* ~~[Z-Brace Modification][zbrace_post]~~
+* ~~Print out a toy for [Henry's bathtime][boats_boats_boats]~~
 
 [boats_boats_boats]: https://github.com/hjhart/3d_printing/tree/master/Models/Hamel_Monohull_Paddle_Boat
-[mosfet_mod]: https://letsprint3d.net/2017/01/29/guide-installing-a-mosfet-board-maker-select-v2/
