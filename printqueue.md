@@ -8,6 +8,14 @@ permalink: /queue/
 #### To Print:
 
 * [Z-Brace setup](https://www.thingiverse.com/thing:921948)
+  * “TopRight_fixed.stl”
+  * “TopLeft_fixed.stl”
+  * “BottomLeftForOneNut_fixed.st”
+  * “BottomRightForOneNut_fixed.stl”
+  * “BackFootLeft.2.2.stl”
+  * “BackFootRight.2.2.stl”
+  * “Front_Y_Brace.3.stl”
+  * 4x of “BallsMK2.stl”
 * [Low Poly Giraffe](https://www.thingiverse.com/thing:908561)
 * [Lil' Dragon Guy](https://www.thingiverse.com/thing:1624412)
 * [Door Catches (3x)](https://www.thingiverse.com/thing:891278)
