@@ -6,6 +6,8 @@ date: 2017-09-01 17:17:29 -0700
 
 {% include links.html %}
 
+[Link to Github Repository](https://github.com/hjhart/octoprint_plus_mjpg_streamer_docker) for the advanced user.
+
 Octoprint is a great little piece of software for managing your prints. It is especially awesome if you have a webcam set up to do timelapses and watch your prints.
 
 Most people control this with OctoPi, but I wanted to do it with Docker on my ubuntu machine. I'm going to assume you already have docker and docker-compose installed, and know how to use command-line utilities like `git`.
